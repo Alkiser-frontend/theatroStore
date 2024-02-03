@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;500;600;700;800;900;1000&display=swap');
+*{
+    font-family: 'Cairo', sans-serif;
+}
+
+body{
+    height:100vh;
+    background-color: black;
+    color: white;
+    /* background-image: url(../image/stage-bkgnd.jpg); */
+    background-image: url(../image/theater-stage-ar02032020.jpg);
+    /* background-image: url(../image/—Pngtree—curtains\ on\ black\ stage\ design_2689069.jpg); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-style: oblique;
+    background-attachment: fixed;
+}
+
+input {
+    margin-bottom: 10px;
+    width: 60%;
+    padding: 5px;
+    font-family: 'Cairo', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    outline: none;
+    border-radius: 5px;
+    border: 3px solid red;
+    text-align: center;
+}
+
+.name {
+    margin-top: 15px;
+}
+
+button{
+    border: none;
+    padding: 10px;
+    width: 60%;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: chartreuse;
+    cursor: pointer;
+    font-family: 'Cairo', sans-serif;
+    margin-bottom: 15px;
+    margin-left: 5px;
+    border-radius: 7px;
+}
+
+.main {
+    width: 35%;
+    background:rgba(255, 255, 255,0.1); 
+    margin-top: 60px;
+    padding: 15px;
+    border: 2px solid red;
+    border-radius: 5px;
+
+}
+    
+a {
+    text-decoration: none;
+    font-size: 20px;
+    color: tomato;
+    font-family: 'Cairo', sans-serif;
+    font-weight: bold;
+    margin: 80px;
+}

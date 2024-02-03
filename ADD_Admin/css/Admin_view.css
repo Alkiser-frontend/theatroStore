@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;500;600;700;800;900;1000&display=swap');
+*{
+    font-family: 'Cairo', sans-serif;
+}
+
+body{
+    height:100vh;
+    background-color: black;
+    color: white;
+    /* background-image: url(../image/stage-bkgnd.jpg); */
+    background-image: url(../image/theater-stage-ar02032020.jpg);
+    /* background-image: url(../image/—Pngtree—curtains\ on\ black\ stage\ design_2689069.jpg); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-style: oblique;
+    background-attachment: fixed;
+} 
+h3{
+    font-size: 30px;
+    font-weight:lighter;
+    margin-top: 30px;
+    border: black 1px; 
+    /* border-style: solid; */
+    border-radius: 5px;
+    width: 250px;
+    padding: 4px;
+}
+main {
+    width: 84%;
+}
+
+.card{
+    float: right;
+    margin-top: 25px;
+    margin-right: 25px;
+    background-color: rgba(20, 87, 143, 0.280);
+    border: black 1px; 
+    border-style: solid; 
+    border-radius: 5px;
+    color: rgb(255, 153, 0);
+
+
+}

@@ -1,0 +1,102 @@
+body{
+    background-color: rgb(185, 176, 176);
+}
+
+table{
+    border: 1px solid black;
+    width: 700px;
+    height: 250px;
+    border-spacing: 0px;
+    text-align: center;
+}
+
+td{
+    border: 1px solid #eee;
+    
+}
+.col{
+    width: 215px;
+    height: 482px;
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding-top: 50px;
+    margin-top: 20px;
+    position: absolute;
+    bottom: 3px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    position: relative;
+    color: red;
+}
+
+hr{
+    width: 90%;
+    height: 0px;
+
+}
+
+.continer{
+    position: absolute;
+    left:30%;
+    top: 20%;
+}
+
+.wol{
+    color: black;
+    background-color: rgb(200, 234, 255);
+    font-weight: bolder;
+}
+
+thead{
+    height: 40px;
+}
+
+caption{
+    font-weight: bolder;
+    font-size: 30px;
+    margin-bottom: 50px;
+    position: relative;
+    bottom:60px;
+    
+}
+
+.beto{
+    width: 26%;
+}
+
+.img{
+    width: 100px;
+    height: 80px;
+    position: relative;
+    top: 20px;
+}
+button{
+    position: absolute;
+    right: -30px;
+    top: 50px;
+    width: 100px;
+    height: 30px;
+    font-weight: bolder;
+    border: 2px solid black;
+    border-radius: 5px;
+    
+}
+.mor{
+    margin: 15px;
+    color: red;
+    
+}
+.ber{
+    background-color: rgb(222, 222, 222);
+    
+}
+tr{
+    background-color: white;
+}
+
